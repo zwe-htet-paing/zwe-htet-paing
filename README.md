@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <p align="left" >
   
 
-[![Zwe Htet Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwe-htet-paing)](https://github.com/zwe-htet-paing/github-readme-stats)
+[![Zwe Htet Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwe-htet-paing&&show_icons=true&theme=dark)](https://github.com/zwe-htet-paing/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&hide=javascript,Tcl)](https://github.com/zwe-htet-paing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&hide=javascript,Tcl&theme=dark)](https://github.com/zwe-htet-paing/github-readme-stats)
 
 
 </p>
