@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ### *Main Tools*
 
 <img align="left" height="40px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
-<img align="left" height="40px" src="https://github.com/onnx/onnx/blob/master/docs/ONNX_logo_main.png"/>
+<img align="left" height="40px" src="https://github.com/onnx/onnx/blob/main/docs/ONNX_logo_main.png"/>
 <img align="left" height="40px" src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/deep-learning/tensorrt/TensorRT.png" />
-<img align="left" height="50px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/gym.png"/>
+<!-- <img align="left" height="50px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/gym.png"/> -->
 <br/>
 <br/>
 <br/>
@@ -53,8 +53,10 @@ Here are some ideas to get you started:
 
 <p align="left" >
   
-[![zwe-htet-paing's github stats](https://github-readme-stats.vercel.app/api?username=zwehtetpaing)](https://github.com/zwe-htet-paing/github-readme-stats)
 
+[![Zwe Htet Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwe-htet-paing)](https://github.com/zwe-htet-paing/github-readme-stats)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&hide=javascript,Tcl)](https://github.com/zwe-htet-paing/github-readme-stats)
+
 
 </p>
