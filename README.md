@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision and NLP project.
 - 🌱 I’m currently learning DL and parallel computing
-- ⚡ Fun fact: Anime, Life, Twice in that order 
+- ⚡ Fun fact: Anime, Life
 
 <!--
 - 👯 I’m looking to collaborate on ...
