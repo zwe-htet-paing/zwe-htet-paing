@@ -1,16 +1,12 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **zwe-htet-paing/zwehtetpaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Computer Vision and NLP project.
-- 🌱 I’m currently learning DL and parallel computing
-- ⚡ Fun fact: Anime, Life
-
 <!--
+- ⚡ Fun fact: Anime, Football
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,45 +14,73 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-### *Language*
-<p align="">
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" height="40px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/cuda.png" />
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<br/>
-<br/>
+<h1 align="center">Hi 👋, I'm Zwe Htet Paing </h1>
+<h3 align="center">Machine Learning and Computer Vision Engineer</h3>
 
-### *Main Tools*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zwe-htet-paing&label=Profile%20views&color=0e75b6&style=flat-square" alt="zwe-htet-paing" /> </p>
 
-<img align="left" height="40px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
-<img align="left" height="40px" src="https://github.com/onnx/onnx/blob/main/docs/ONNX_logo_main.png"/>
-<img align="left" height="40px" src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/deep-learning/tensorrt/TensorRT.png" />
-<!-- <img align="left" height="50px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/gym.png"/> -->
+* 🌍  I'm based in Yangon, Myanmar
+* 🔭 Object Detection, Segementation, Pose Estimation, OCR, Action Recognition and Classification.
+* 🌱 Automatic Speech Recognition and Speech to text
+* 🤔 Web Scraping and Data Analysis
+* 📫 You can contact me at [zwehtetpaing.works@gmail.com](mailto:zwehtetpaing.works@gmail.com)
+*  ⚡ Fun fact: Anime, Football
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://www.linkedin.com/in/zwe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br/>
 <br/>
 <br/>
 
-### *Other Tools*
-
-<img align="left" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" height="40px" src="https://github.com/1chimaruGin/Neural-Style-Transfer/blob/master/images/sklearn.png"/>
-<img align="left" height="40px" src="https://camo.githubusercontent.com/7cc5c1ce50d19bb148f96ffcb9b762201ad5e518/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
-<img align="left" height="40px" src="https://docs.opencv.org/master/opencv-logo-small.png" />
-<img align="left" height="40px" src="https://camo.githubusercontent.com/e5efd9b8f2106722c85415f104a352232a3a9437d765778aca491a2c2a7d5d6c/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667"/>
-<img align="left" height="40px" src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.png"/>
-<br/>
+### _Language_
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+<img width="60px" align="left" style="padding: 20px" src="images/python.png" />
+<img width="60px" align="left" style="padding: 20px" src="images/cpp.png" />
+<img width="55px" align="left" style="padding: 20px" src="images/bash.png" />
+</div>
 <br/>
 <br/>
 <br/>
 
-<p align="left" >
-  
+### _Main Tools_
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+<img width="45px" align="left" style="padding: 20px" src="images/pytorch.png" />
+<img width="65px" align="left" style="padding: 10px" src="images/onnx.png"/>
+<img width="55px" align="left" style="padding: 20px" src="images/tensorrt.png" />
+<img width="55px" align="left" style="padding: 20px" src="images/openvino.png" />
+<img width="70px" align="left" style="padding: 20px" src="images/cuda.png"/>
+</div>
+<br/>
+<br/>
+<br/>
+
+### _Other Tools_
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+<img width="60px" align="left" style="padding: 20px" src="images/tensorflow.png" />
+<img width="60px" align="left" style="padding: 20px" src="images/docker.png" />
+<img width="60px" align="left" style="padding: 20px" src="images/kubernetes.png" />
+<img width="60px" align="left" style="padding: 20px" src="images/sklearn.png" />
+<img width="55px" align="left" style="padding: 20px" src="images/opencv.png"/>
+<img width="60px" align="left" style="padding: 20px" src="images/wandb.png" />
+<img width="60px" align="left" style="padding: 20px" src="images/numpy.png"/>
+<img width="60px" align="left" style="padding: 20px" src="images/pandas.png"/>
+<img width="80px" align="left" style="padding: 20px" src="images/seaborn.png"/>
+<img width="80px" align="left" style="padding: 20px" src="images/matplotlib.png"/>
+</div>
+<br/>
+<br/>
+<br/>
+
+### _Status_
+<p align="left">
 
 [![Zwe Htet Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwe-htet-paing&&show_icons=true&theme=dark)](https://github.com/zwe-htet-paing/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&hide=javascript,Tcl&theme=dark)](https://github.com/zwe-htet-paing/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&hide=javascript,Tcl&theme=dark)](https://github.com/zwe-htet-paing/github-readme-stats) -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zwe-htet-paing&theme=dark)](https://git.io/streak-stats)
 
 </p>
+
+
+
