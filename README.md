@@ -1,86 +1,98 @@
-<!--
-### Hi there 👋
-**zwe-htet-paing/zwehtetpaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Zwe Htet Paing
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an experienced AI/ML engineer with a passion for developing and implementing machine learning and deep learning applications. 
+
+## 🧑‍💻 About Me
+I have over 3 years of experience specializing in:
+- **Vision**: Implementing and optimizing computer vision algorithms.
+- **Natural Language Processing (NLP)**: Developing state-of-the-art models for text analysis and understanding.
+- **Generative AI**: Creating generative models for various applications.
+
+## 💡 Skills
+### Programming Languages
+- **Python**: Proficient with extensive experience in developing ML and AI models.
+
+### Libraries and Frameworks
+- **PyTorch**
+- **TensorFlow**
+- **Keras**
+- **Scikit-learn**
+- **Hugging Face**
+- **LangChain**
+- **OpenAI**
+
+### MLOps Practices
+- **Model Deployment**: Experience in deploying models in production environments.
+- **Monitoring**: Using tools like Airflow for task scheduling and monitoring.
+- **CI/CD**: Implementing continuous integration and continuous deployment pipelines.
+
+### Additional Skills
+- **Large Language Models (LLMs)**
+- **Data Structures**
+- **AI Algorithms**
+- **Statistical Methods**
+
+<!--
+## 🚀 Projects
+Here are some highlights of my work:
+
+### [📷 Vision-based AI Model](https://github.com/yourusername/project1)
+- **Description**: Developed an AI model for image classification tasks.
+- **Technologies**: Python, PyTorch, OpenCV
+- **Achievements**: Achieved a 95% accuracy rate on the test dataset.
+- **Details**: The project involves preprocessing images, training a CNN, and deploying the model using Flask.
+
+### [💬 NLP Chatbot](https://github.com/yourusername/project2)
+- **Description**: Created a chatbot using transformer models.
+- **Technologies**: Python, Hugging Face Transformers, TensorFlow
+- **Achievements**: Successfully integrated with a customer service platform.
+- **Details**: The project includes data preprocessing, model training, and real-time user interaction handling.
+
+### [📝 Generative AI Text Generation](https://github.com/yourusername/project3)
+- **Description**: Built a generative AI model for text generation.
+- **Technologies**: Python, OpenAI GPT-3, Keras
+- **Achievements**: Developed custom prompt tuning for generating creative writing pieces.
+- **Details**: The project covers data collection, model fine-tuning, and generating high-quality text outputs.
 -->
 
+## 🛠 Tools and Technologies
+### Development Tools
+- **VS Code**
+- **Jupyter Notebook**
+- **Git**
+
+### Collaboration Tools
+- **GitHub**
+- **Bitbucket**
+
+### Cloud Platforms
+- **AWS**
+- **Google Cloud Platform (GCP)**
+- **Azure**
+
+### Data Visualization
+- **Matplotlib**
+- **Seaborn**
+- **Plotly**
+
+## 📊 Stats and Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwe-htet-paing&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zwe-htet-paing&theme=dark)
+
+
+## 📫 Get in Touch
+- **Email**: [zwehtetpaing.works@gmail.com](zwehtetpaing.works@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/zwe-htet-paing/](https://www.linkedin.com/in/zwe-htet-paing/)
 <!--
-- ⚡ Fun fact: Anime, Football
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 📝 Blog and Writing
+- [Medium](https://medium.com/@yourusername)
+- [Personal Blog](https://yourblog.com)
+
+## 🌟 Featured Contributions
+- **Open Source Projects**: Contributed to various open-source projects including [Project Name](https://github.com/projectname).
+- **Publications**: Authored research papers on AI and ML topics. [ResearchGate Profile](https://www.researchgate.net/profile/YourProfile)
 -->
+---
 
-<h1 align="center">Hi 👋, I'm Zwe Htet Paing </h1>
-<h3 align="center">AI/Machine Learning and Computer Vision Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zwe-htet-paing&label=Profile%20views&color=0e75b6&style=flat-square" alt="zwe-htet-paing" /> </p>
-
-* 🌍  I'm based in Yangon, Myanmar
-* 🔭 Object Detection, Segementation, Pose Estimation, OCR, Action Recognition and Classification.
-* 🌱 Automatic Speech Recognition and Speech to text
-* 🤔 Web Scraping and Data Analysis
-* 📫 You can contact me at [zwehtetpaing.works@gmail.com](mailto:zwehtetpaing.works@gmail.com)
-*  ⚡ Fun fact: Anime, Football
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/zwe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<br/>
-<br/>
-<br/>
-
-### _Language_
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="60px" align="left" style="padding: 20px" src="images/python.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/cpp.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/bash.png" />
-</div>
-<br/>
-<br/>
-<br/>
-
-### _Main Tools_
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="45px" align="left" style="padding: 20px" src="images/pytorch.png" />
-<img width="65px" align="left" style="padding: 10px" src="images/onnx.png"/>
-<img width="55px" align="left" style="padding: 20px" src="images/tensorrt.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/openvino.png" />
-<img width="70px" align="left" style="padding: 20px" src="images/cuda.png"/>
-</div>
-<br/>
-<br/>
-<br/>
-
-### _Other Tools_
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-<img width="60px" align="left" style="padding: 20px" src="images/tensorflow.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/docker.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/kubernetes.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/sklearn.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/opencv.png"/>
-<img width="60px" align="left" style="padding: 20px" src="images/wandb.png" />
-<img width="60px" align="left" style="padding: 20px" src="images/numpy.png"/>
-<img width="60px" align="left" style="padding: 20px" src="images/pandas.png"/>
-<img width="80px" align="left" style="padding: 20px" src="images/seaborn.png"/>
-<img width="80px" align="left" style="padding: 20px" src="images/matplotlib.png"/>
-</div>
-<br/>
-<br/>
-<br/>
-
-### _Status_
-<p align="left">
-
-<!-- [![Zwe Htet Paing's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwe-htet-paing&&show_icons=true&theme=dark)](https://github.com/zwe-htet-paing/github-readme-stats) -->
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&hide=javascript,Tcl&theme=dark)](https://github.com/zwe-htet-paing/github-readme-stats) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zwe-htet-paing&theme=dark)](https://git.io/streak-stats)
-
-</p>
-
-
-
+Thanks for visiting! 😃 Feel free to check out my repositories and connect with me on LinkedIn or via email for collaboration opportunities.
