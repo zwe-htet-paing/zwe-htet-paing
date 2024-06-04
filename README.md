@@ -23,7 +23,7 @@ I have over 3 years of experience specializing in:
 
 ### MLOps Practices
 - **Model Deployment**: Experience in deploying models in production environments.
-- **Monitoring**: Using tools like Airflow for task scheduling and monitoring.
+<!-- - **Monitoring**: Using tools like Airflow for task scheduling and monitoring. -->
 - **CI/CD**: Implementing continuous integration and continuous deployment pipelines.
 
 ### Additional Skills
