@@ -1,12 +1,16 @@
 # Hi there 👋, I'm Zwe Htet Paing
 
-Welcome to my GitHub profile! I'm an experienced AI/ML engineer with a passion for developing and implementing machine learning and deep learning applications. 
-
+Welcome to my GitHub!
 ## 🧑‍💻 About Me
-I have over 3 years of experience specializing in:
-- **Vision**: Implementing and optimizing computer vision algorithms.
-- **Natural Language Processing (NLP)**: Developing state-of-the-art models for text analysis and understanding.
-- **Generative AI**: Creating generative models for various applications.
+
+I am an AI/ML Engineer and Python Developer with over 4 years of experience building intelligent solutions that bridge research and real-world applications. My expertise includes:
+
+- **Computer Vision**: Designing and optimizing advanced vision algorithms for practical applications.
+- **Natural Language Processing (NLP)**: Building advanced models for language understanding, text generation, and semantic analysis.
+- **Generative AI & Prompt Engineering**: Crafting effective prompts and designing generative models for innovative AI applications.
+- **RAG (Retrieval-Augmented Generation)**: Implementing knowledge-driven AI systems that combine retrieval with generation for enhanced performance.
+
+Passionate about scalable, production-ready AI systems, I thrive at turning cutting-edge research into impactful, real-world solutions.
 
 ## 💡 Skills
 ### Programming Languages
