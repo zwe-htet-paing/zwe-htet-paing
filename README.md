@@ -1,102 +1,75 @@
-# Hi there 👋, I'm Zwe Htet Paing
+# Hi, I'm Zwe Htet Paing 👋
 
-Welcome to my GitHub!
-## 🧑‍💻 About Me
+> **AI/ML Engineer & Python Developer** · 4+ years turning cutting-edge research into production-ready intelligent systems.
 
-I am an AI/ML Engineer and Python Developer with over 4 years of experience building intelligent solutions that bridge research and real-world applications. My expertise includes:
-
-- **Computer Vision**: Designing and optimizing advanced vision algorithms for practical applications.
-- **Natural Language Processing (NLP)**: Building advanced models for language understanding, text generation, and semantic analysis.
-- **Generative AI & Prompt Engineering**: Crafting effective prompts and designing generative models for innovative AI applications.
-- **RAG (Retrieval-Augmented Generation)**: Implementing knowledge-driven AI systems that combine retrieval with generation for enhanced performance.
-
-Passionate about scalable, production-ready AI systems, I thrive at turning cutting-edge research into impactful, real-world solutions.
-
-## 💡 Skills
-### Programming Languages
-- **Python**: Proficient with extensive experience in developing ML and AI models.
-
-### Libraries and Frameworks
-- **PyTorch**
-- **TensorFlow**
-- **Keras**
-- **Scikit-learn**
-- **Hugging Face**
-- **LangChain**
-- **OpenAI**
-
-### MLOps Practices
-- **Model Deployment**: Experience in deploying models in production environments.
-<!-- - **Monitoring**: Using tools like Airflow for task scheduling and monitoring. -->
-- **CI/CD**: Implementing continuous integration and continuous deployment pipelines.
-
-### Additional Skills
-- **Large Language Models (LLMs)**
-- **Data Structures**
-- **AI Algorithms**
-- **Statistical Methods**
-
-<!--
-## 🚀 Projects
-Here are some highlights of my work:
-
-### [📷 Vision-based AI Model](https://github.com/yourusername/project1)
-- **Description**: Developed an AI model for image classification tasks.
-- **Technologies**: Python, PyTorch, OpenCV
-- **Achievements**: Achieved a 95% accuracy rate on the test dataset.
-- **Details**: The project involves preprocessing images, training a CNN, and deploying the model using Flask.
-
-### [💬 NLP Chatbot](https://github.com/yourusername/project2)
-- **Description**: Created a chatbot using transformer models.
-- **Technologies**: Python, Hugging Face Transformers, TensorFlow
-- **Achievements**: Successfully integrated with a customer service platform.
-- **Details**: The project includes data preprocessing, model training, and real-time user interaction handling.
-
-### [📝 Generative AI Text Generation](https://github.com/yourusername/project3)
-- **Description**: Built a generative AI model for text generation.
-- **Technologies**: Python, OpenAI GPT-3, Keras
-- **Achievements**: Developed custom prompt tuning for generating creative writing pieces.
-- **Details**: The project covers data collection, model fine-tuning, and generating high-quality text outputs.
--->
-
-## 🛠 Tools and Technologies
-### Development Tools
-- **VS Code**
-- **Jupyter Notebook**
-- **Git**
-
-### Collaboration Tools
-- **GitHub**
-- **Bitbucket**
-
-### Cloud Platforms
-- **AWS**
-- **Google Cloud Platform (GCP)**
-- **Azure**
-
-### Data Visualization
-- **Matplotlib**
-- **Seaborn**
-- **Plotly**
-
-## 📊 Stats and Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zwe-htet-paing&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zwe-htet-paing&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=zwe-htet-paing&theme=dark)
-
-
-## 📫 Get in Touch
-- **Email**: [zwehtetpaing.works@gmail.com](zwehtetpaing.works@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/zwe-htet-paing/](https://www.linkedin.com/in/zwe-htet-paing/)
-<!--
-## 📝 Blog and Writing
-- [Medium](https://medium.com/@yourusername)
-- [Personal Blog](https://yourblog.com)
-
-## 🌟 Featured Contributions
-- **Open Source Projects**: Contributed to various open-source projects including [Project Name](https://github.com/projectname).
-- **Publications**: Authored research papers on AI and ML topics. [ResearchGate Profile](https://www.researchgate.net/profile/YourProfile)
--->
 ---
 
-Thanks for visiting! 😃 Feel free to check out my repositories and connect with me on LinkedIn or via email for collaboration opportunities.
+## 🧠 What I build
+
+| Domain | Focus |
+|---|---|
+| 👁 **Computer Vision** | Advanced vision algorithms for real-world applications |
+| 💬 **NLP & Text AI** | Language understanding, text generation, semantic analysis |
+| ✦ **Generative AI** | LLM fine-tuning, agentic workflows & multi-modal generation |
+| ⚡ **RAG Systems** | Knowledge-driven AI combining retrieval with generation |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## 💡 Core Skills
+
+```
+Large Language Models    ██████████████████░░  LLM fine-tuning & inference
+RAG Pipelines            ████████████████░░░░  Retrieval-augmented generation
+Prompt Engineering       ███████████████░░░░░  System prompts & chain-of-thought
+Computer Vision          ██████████████░░░░░░  Detection, segmentation, classification
+NLP                      ██████████████░░░░░░  Transformers, embeddings, generation
+MLOps & Deployment       ████████████░░░░░░░░  CI/CD, containerisation, cloud deploy
+n8n Automation           █████████████░░░░░░░  Workflow automation & AI agent pipelines
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zwe-htet-paing&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-zwehtetpaing.works@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zwehtetpaing.works@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zwe_Htet_Paing-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zwe-htet-paing/)
+
+---
+
+<p align="center">
+  <i>Passionate about scalable AI systems · Open to collaborations & opportunities</i>
+</p>
